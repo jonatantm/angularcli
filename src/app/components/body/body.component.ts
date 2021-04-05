@@ -8,5 +8,6 @@ import { Component, OnInit } from '@angular/core';
 export class BodyComponent  {
   mostrar = true;
 
+  motos:String[]=['Yamaha','Apache','Duke','Pulsar']
 
 }
